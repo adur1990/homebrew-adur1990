@@ -3,7 +3,7 @@ cask 'passformacos' do
  	depends_on macos: '>= :mojave'
  
  	version 'v0.7'
- 	sha256 '5343c1a5f6373fc0d1b0653b3d81ffd3aff6c9a2ce003d83eeae52b821a9c340'
+ 	sha256 '8fd2bf490b54101afb0773c4c7f252fa602e6b99c14690cc98f1f14d9b383e43'
  
  	url "https://github.com/adur1990/Pass-for-macOS/releases/download/#{version}/Pass.for.macOS.app.zip"
  	name 'Pass for macOS'
